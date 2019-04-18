@@ -36,3 +36,15 @@ background-color: yellow;
 .dogs p {
   background-color: steelblue;
 }
+.cats p a {
+  font-weight: bold;
+}
+.dogs p a {
+  font-style: italics;
+}
+.dogs p a {
+  font-weight: bold;
+}
+a {
+  font-weight: normal;
+}
